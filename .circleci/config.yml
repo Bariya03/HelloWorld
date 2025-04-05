@@ -20,7 +20,7 @@ jobs:
       # Checkout the code as the first step.
       - checkout
       - run:
-          name: "Bariya Ansari KCFMSCIT1"
+          name: "Madiha Ansari KCFMSCIT2"
           command: "echo Hello, World!"
 
 # Orchestrate jobs using workflows
